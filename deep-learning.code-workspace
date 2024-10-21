@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fastbook"
+		},
+		{
+			"path": "../fastai_chapter2"
+		}
+	],
+	"settings": {}
+}
