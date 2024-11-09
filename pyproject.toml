@@ -14,6 +14,9 @@ fastai = "^2.7.17"
 duckduckgo-search = ">=6.2"
 jupyter-contrib-nbextensions = "^0.7.0"
 astroid = ">=2.5"
+kaggle = "^1.6.17"
+protobuf = "^5.28.3"
+accelerate = ">=0.26.0"
 
 
 [build-system]
